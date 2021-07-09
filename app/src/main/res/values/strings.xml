@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PuppyGram</string>
+    <string name="puppygram_title">PuppyGram</string>
+    <string name="puppy_profile_picture">Puppy Profile Picture</string>
+    <string name="author_format_text">author: %s</string>
+    <string name="description_format_text">description: %s</string>
+    <string name="date_taken_format_text">date taken: %s</string>
+    <string name="oops_something_went_wrong">OOPS SOMETHING WENT WRONG</string>
+</resources>
